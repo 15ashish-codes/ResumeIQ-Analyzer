@@ -1,0 +1,15 @@
+index.html
+assets/style.css
+login.html
+register.html
+forgot-password.html
+dashboard.html
+upload.html
+job-match.html
+builder.html
+recruiter.html
+admin.html
+profile.html
+assets/app.js
+README.md
+.env.example
